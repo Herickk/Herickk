@@ -1,6 +1,5 @@
-### Olá! Eu sou o Herick Wendel ✌️
-Sempre em busca de aprimorar meus conhecimentos. Gosto de novos desafios e estou sempre aberta para qualquer assunto.
-Há 1 ano descobri a área de dados e tecnologia, admiro como os dados tem o poder de nos contar histórias e gerar insights, desde então venho me aperfeiçoando.
+### Sou Herick Wendel e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!✌️
+
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herickwendel/)
