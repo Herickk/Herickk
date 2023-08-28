@@ -1,5 +1,5 @@
 #Hellou Everyone ✌️
-### IM Herick Wendel and here I tell you a little more about my career as a Data Analyst. Welcome!
+### Im Herick Wendel and here I tell you a little more about my career as a Data Analyst. Welcome!
 
 
 
