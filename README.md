@@ -1,4 +1,5 @@
-### Sou Herick Wendel e aqui eu conto um pouco mais sobre a minha trajetória como Analista de Dados. Seja bem-vindo(a)!✌️
+#Hellou Everyone ✌️
+### IM Herick Wendel and here I tell you a little more about my career as a Data Analyst. Welcome!
 
 
 
@@ -10,9 +11,10 @@
 )
 
 
-### Tecnologias que eu uso no meu dia 
+### Technologies I use in my day 
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="Excel" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div>    
+    <img align="center" alt="Excel" src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+ </div>    
