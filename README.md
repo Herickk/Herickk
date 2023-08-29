@@ -1,8 +1,7 @@
 #Hellou Everyone ✌️
 ### Im Herick Wendel and here I tell you a little more about my career as a Data Analyst. Welcome!
 
-ch1 align="left">Hi dear <ing src="https: //raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"›, I'm Mayk Brito</h1>
-
+<h1 align="left"> Hi dear <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/Master/hi.gif" width="30px">,I'm Herick Wendel</h1>h1>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herickwendel/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herick_wendel/?hl=pt-br/)
 
