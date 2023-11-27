@@ -1,7 +1,6 @@
 
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,  I'm Herick Wendel </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Herickk&color=blue" alt="Profile views" /> </p>
 
 
 
@@ -9,6 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herickwendel/)
 
 
+![Herickk GitHub stats](https://github-readme-stats.vercel.app/api?username=Herickk&show_icons=true&theme=dracula
+)
 
 
 
