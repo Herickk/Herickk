@@ -10,8 +10,6 @@
 
 
 
-![Herickk GitHub stats](https://github-readme-stats.vercel.app/api?username=Herickk&show_icons=true&theme=dracula
-)
 
 
 ### Technologies I use in my day 
