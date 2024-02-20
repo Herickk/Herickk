@@ -18,15 +18,10 @@
 
 
 ### Technologies I use in my day 
-
-
-
-![icons8-python-96](https://github.com/Herickk/Herickk/assets/104686369/362adf0a-4275-43e8-bc4f-1f4ace821755)
-![icons8-power-bi-2021-96](https://github.com/Herickk/Herickk/assets/104686369/2397205a-8733-42cb-9aa3-3d58a7902dcd)
-![icons8-google-ads-96](https://github.com/Herickk/Herickk/assets/104686369/f870cef0-69ff-4f26-b623-b2e9de4708c6)
-![icons8-google-data-studio-96](https://github.com/Herickk/Herickk/assets/104686369/3276a1e1-b78f-44b7-99ec-006bafe3601b)
-![image](https://github.com/Herickk/Herickk/assets/104686369/1c369387-f940-40d9-a51f-15d5e681c13c)
-![image](https://github.com/Herickk/Herickk/assets/104686369/7ecc6dc6-1a1c-482c-ae1b-57d6cacb43cd)
-![image](https://github.com/Herickk/Herickk/assets/104686369/246d1c0d-506b-48aa-8176-a986b5fc9a3d)
-
+![icons8-python-32](https://github.com/Herickk/Herickk/assets/104686369/0feee7ee-cafc-41a5-b0bc-975e5f891b86)
+![icons8-power-bi-2021-32](https://github.com/Herickk/Herickk/assets/104686369/3556ba29-0124-4e3b-8b00-adb4087bd9e4)
+![icons8-google-ads-32](https://github.com/Herickk/Herickk/assets/104686369/118e7b6d-0aff-4426-ad2c-729a5a0e05a4)
+![icons8-visual-studio-32](https://github.com/Herickk/Herickk/assets/104686369/a820c155-ee61-4aa0-8edc-12f1f8de128c)
+![icons8-google-data-studio-32 (1)](https://github.com/Herickk/Herickk/assets/104686369/1675ec5d-5df3-45b1-9c53-2f35e6f36101)
+![icons8-figma-32](https://github.com/Herickk/Herickk/assets/104686369/9163cbc3-4fee-4fcb-ac85-cc28acd940bd)
 
