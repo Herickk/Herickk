@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Herick</h1>
+<h1 align="left"> Hi, Whats Up? </h1>
 
 I'm Herick Wendel and here I tell you a little more about my journey as a Data Analyst. Welcome !
 
@@ -8,7 +8,7 @@ I'm Herick Wendel and here I tell you a little more about my journey as a Data A
 
 [![Herickk GitHub stats](https://github-readme-stats.vercel.app/api?username=Herickk&show)](https://github.com/anuraghazra/github-readme-stats)
 
-
+🎾 Ex-professor de tenis
 
 
 
