@@ -8,7 +8,6 @@ I'm Herick Wendel and here I tell you a little more about my journey as a Data A
 
 [![Herickk GitHub stats](https://github-readme-stats.vercel.app/api?username=Herickk&show)](https://github.com/anuraghazra/github-readme-stats)
 
-🎾 Ex-professor de tenis
 
 
 
