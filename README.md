@@ -2,7 +2,8 @@
 
 <h1 align="left"> Hi, Whats Up? </h1>
 
-I'm Herick Wendel and here I tell you a little more about my journey as a Data Analyst. Welcome !
+I'm Herick Wendel and here I tell you a little more about my journey . Welcome !
+I am an Android development student dedicated to acquiring knowledge to advance in the tech field. I am currently open to opportunities that can contribute to my growth and help me achieve my professional goals.
 
 
 
