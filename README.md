@@ -10,7 +10,7 @@ Skilled in Python, SQL, Excel, and Power BI. I enjoy solving problems with data 
 Open to opportunities that allow me to grow and achieve my professional goals.
 
 
-[![Herickk GitHub stats](https://github-readme-stats.vercel.app/api?username=Herickk&show)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
