@@ -5,8 +5,9 @@
 I'm Herick Wendel and here I tell you a little more about my journey .
 
 
-I am an Android development student dedicated to acquiring knowledge to advance in the tech field. I am currently open to opportunities that can contribute to my growth and help me achieve my professional goals.
-
+Data Analyst student, passionate about learning and growing in the tech field.
+Skilled in Python, SQL, Excel, and Power BI. I enjoy solving problems with data and turning insights into actionable results. 
+Open to opportunities that allow me to grow and achieve my professional goals.
 
 
 [![Herickk GitHub stats](https://github-readme-stats.vercel.app/api?username=Herickk&show)](https://github.com/anuraghazra/github-readme-stats)
