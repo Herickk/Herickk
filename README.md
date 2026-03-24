@@ -5,9 +5,6 @@
 I'm Herick Wendel and here I tell you a little more about my journey .
 
 
-Data Analyst student, passionate about learning and growing in the tech field.
-Skilled in Python, SQL, Excel, and Power BI. I enjoy solving problems with data and turning insights into actionable results. 
-Open to opportunities that allow me to grow and achieve my professional goals.
 
 
 
